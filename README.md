@@ -2,7 +2,7 @@
 
 适用于 macOS Apple Silicon（M 系列芯片）。本页只发布客户端安装文件，不包含用户密钥、会话记录或项目源码。
 
-下载 Release 中的 `安装析造Agent.command`，双击运行。首次联网下载完整客户端并安装到用户的 Applications 文件夹，随后打开应用。应用内填写自己的 DeepSeek 密钥并测试连接。已有客户端正在运行时，请先退出。
+下载 Release 中的 `Xizao-Install.command`（显示名“安装析造Agent.command”），双击运行。首次联网下载完整客户端并安装到用户的 Applications 文件夹，随后打开应用。应用内填写自己的 DeepSeek 密钥并测试连接。已有客户端正在运行时，请先退出。
 
 安装入口约几 KB；首次需要下载约 148 MB 的客户端本体。完成后不再重复下载该版本。模型使用仍需要网络与有效的 DeepSeek API Key。
 
